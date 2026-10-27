@@ -1,1 +1,10 @@
+.glass-header {
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(12px);
+}
 
+.hero-pattern {
+    background-color: #064e3b;
+    background-image: radial-gradient(rgba(251, 191, 36, 0.15) 1px, transparent 0);
+    background-size: 24px 24px;
+}
